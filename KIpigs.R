@@ -164,7 +164,6 @@ Pr.erad
 
 stoch.out <- data.frame(1:dim(Npred.mat)[2], Npred.mean, Npred.up, Npred.lo)
 colnames(stoch.out) <- c("t", "Nmn", "Nup", "Nlo")
-#setwd("/Users/brad0317/Documents/Biology/Pigs/")
 write.csv(stoch.out, file="stoch1.csv")
 
 mean(totCost)
@@ -241,7 +240,6 @@ Pr.erad
 
 stoch.out <- data.frame(1:dim(Npred.mat)[2], Npred.mean, Npred.up, Npred.lo)
 colnames(stoch.out) <- c("t", "Nmn", "Nup", "Nlo")
-#setwd("/Users/brad0317/Documents/Biology/Pigs/")
 write.csv(stoch.out, file="stoch2.csv")
 
 mean(totCost)
