@@ -16,6 +16,9 @@ Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
 March 2021 <br>
   
+## Required R libraries
+- <code>gtools</code>
+  
 ## Further reading
 - <a href="https://www.pir.sa.gov.au/biosecurity/introduced-pest-feral-animals/find_a_pest_animal/pigs">Feral pigs in South Australia</a>
 - <a href="https://www.pir.sa.gov.au/biosecurity/introduced-pest-feral-animals/find_a_pest_animal/pigs/feral_pig_eradication_program_on_kangaroo_island">Feral Pig Eradication Program on Kangaroo Island</a>
