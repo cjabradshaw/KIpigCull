@@ -1,4 +1,7 @@
 # Kangaroo Island feral pig-culling model
+
+<img align="right" src="pig.png" alt="feral pig" width="200" style="margin-top: 20px">
+
 R code to simulate effect of different culling regimes on feral pig populations on Kangaroo Island, South Australia
 
 Accompanies joint <a href="https://www.pir.sa.gov.au">Primary Industries and Regions South Australia</a> (PIRSA) and <a href="https://www.flinders.edu.au">Flinders University</a> (<a href="http://globalecologyflinders.com">Global Ecology</a>) Report:
