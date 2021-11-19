@@ -6,7 +6,7 @@ R code to simulate effect of different culling regimes on feral pig populations 
 
 Accompanies joint <a href="https://www.pir.sa.gov.au">Primary Industries and Regions South Australia</a> (PIRSA) and <a href="https://www.flinders.edu.au">Flinders University</a> (<a href="http://globalecologyflinders.com">Global Ecology</a>) Report:
 
-<a href="mailto:bradley.page@sa.gov.au">Page, B<a/>, <a href="mailto:corey.bradshaw@flinders.edu.au">CJA Bradshaw</a>, M Korcz, M Tarran. 2021. Eradication of pigs on Kangaroo Island: updated predictions to inform the probability of eradication. <a href="https://www.pir.sa.gov.au/biosecurity">Biosecurity SA</a>, Adelaide (report to be published soon)
+<a href="mailto:bradley.page@sa.gov.au">Page, B<a/>, <a href="mailto:corey.bradshaw@flinders.edu.au">CJA Bradshaw</a>, M Korcz, M Tarran. 2021. <a href="https://pir.sa.gov.au/__data/assets/pdf_file/0004/396643/Updated_predictions_on_the_program_to_eradicate_feral_pigs_from_Kangaroo_Island.pdf">"Eradication of pigs on Kangaroo Island: updated predictions to inform the probability of eradication</a>. <a href="https://www.pir.sa.gov.au/biosecurity">Biosecurity SA</a>, Adelaide
   
 <a href="https://www.tourkangarooisland.com.au/"><img align="center" src="KI.png" alt="Kangaroo Island" width="600" style="margin-top: 20px"></a>
 
@@ -23,4 +23,4 @@ March 2021 <br>
   
 ## Further reading
 - <a href="https://www.pir.sa.gov.au/biosecurity/introduced-pest-feral-animals/find_a_pest_animal/pigs">Feral pigs in South Australia</a>
-- <a href="https://www.pir.sa.gov.au/biosecurity/introduced-pest-feral-animals/find_a_pest_animal/pigs/feral_pig_eradication_program_on_kangaroo_island">Feral Pig Eradication Program on Kangaroo Island</a>
+- <a href="https://pir.sa.gov.au/biosecurity/introduced-pest-feral-animals/find_a_pest_animal/pigs/feral_pig_eradication_program_on_kangaroo_island">Feral Pig Eradication Program on Kangaroo Island</a>
